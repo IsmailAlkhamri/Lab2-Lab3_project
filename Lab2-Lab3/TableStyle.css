@@ -1,0 +1,56 @@
+b{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: #deeaee;
+    width: 50%;
+    height: 100px;
+    margin-left: 23%;
+    margin-bottom: 7%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table{
+    border: 2px solid #eee;
+    width: 100%;
+    border-spacing: 2px;
+
+}
+table td{
+    padding: 10px;
+    background-color: #d1d1d1;
+    text-align: center;
+
+}
+.name{
+    text-align: left;
+}
+table thead th{
+    background-color:#c94c4c; 
+    font-size: 20px;
+}
+.image{
+    margin-top: 5%;
+    margin-left: 32%;
+    border: 3px black solid;
+}
+.Logoutc{
+    width:20px;
+    margin-left: 47%;
+    margin-top: 20px;
+    
+}
+button{
+    width:100px;
+    height: 60px;
+    font-weight: bold;
+    background-color:red;
+    color: white;
+    cursor:pointer;
+    
+}
+.frame{
+    margin-left: 32%;
+    margin-top: 15px;
+}
